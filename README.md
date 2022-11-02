@@ -2,7 +2,7 @@
 <!-- #### Coding and Analysis -->
 ![Coding and Analysis](https://github.com/Meet-Mandaviya/Meet-Mandaviya/blob/main/pic.jpg)
 
-## Skills and Experience
+## Skills 
 * 🐍 Python
 * ☕ Java
 * 💻 Lightroom

@@ -13,7 +13,7 @@ I'm Meet from India, and I am currently pursuing Bachelor's degree in Computer E
 
 Skills: Machine Learning / PYTHON / JAVA / LIGHTROOM / HTML / CSS
 
-- 🌱 I’m currently learning Data Science skills. 
+- 🌱 I’m currently doing hands on experience in Machine Learning and Power bi.
 - 📫 How to reach me: meet.gajjjar1182@gmail.com 
 
 

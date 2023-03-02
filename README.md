@@ -3,6 +3,8 @@
 ![Coding and Analysis](https://github.com/Meet-Mandaviya/Meet-Mandaviya/blob/main/pic.jpg)
 
 ## Skills 
+* Data Science
+* Machine Learning
 * 🐍 Python
 * ☕ Java
 * 💻 Lightroom

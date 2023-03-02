@@ -5,13 +5,13 @@
 ## Skills 
 * Data Science
 * Machine Learning
-🐍 Python
-☕ Java
-💻 Lightroom
+* 🐍 Python
+* ☕ Java
+* 💻 Lightroom
 
 I'm Meet from India, and I am currently pursuing Bachelor's degree in Computer Engineering. I really enjoy learning languages like Python and Java, as well as I like to work with NumPy, Pandas and Matplotlib libraries in python. I am currently learning data science related skills like data-preprocessing, data-visualization,data analysis using python libraries.
 
-Skills: PYTHON / JAVA / LIGHTROOM / HTML / CSS
+Skills: Machine Learning / PYTHON / JAVA / LIGHTROOM / HTML / CSS
 
 - 🌱 I’m currently learning Data Science skills. 
 - 📫 How to reach me: meet.gajjjar1182@gmail.com 

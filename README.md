@@ -1,4 +1,4 @@
-# I'm Meet Mandaviya
+# My name is Meet Mandaviya
 <!-- #### Coding and Analysis -->
 ![Coding and Analysis](https://github.com/Meet-Mandaviya/Meet-Mandaviya/blob/main/pic.jpg)
 

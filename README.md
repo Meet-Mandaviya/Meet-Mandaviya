@@ -1,6 +1,6 @@
 # My name is Meet Mandaviya
 <!-- #### Coding and Analysis -->
-![Coding and Analysis](https://github.com/Meet-Mandaviya/Meet-Mandaviya/blob/main/data analytics.jpg)
+![Coding and Analysis](https://github.com/Meet-Mandaviya/Meet-Mandaviya/blob/66d6f6bbd0ff2ce865f03865f8bda34556ca9f9e/data-analytics.jpg)
 
 ## Skills 
 * Data Science

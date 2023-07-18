@@ -9,11 +9,11 @@
 * ☕ Java
 * 💻 Lightroom
 
-I'm Meet from India, and I am currently pursuing Bachelor's degree in Computer Engineering. I really enjoy learning languages like Python and Java, as well as I like to work with NumPy, Pandas and Matplotlib libraries in python. I am currently learning data science related skills like data-preprocessing, data-visualization,data analysis using python libraries.
+I am an aspiring data analyst with a passion for transforming raw data into actionable insights. Proficient in data wrangling, visualization, and statistical analysis. Eager to contribute my skills anywhere, uncovering trends and driving data-driven decisions. Excited to learn and make a meaningful impact in the field of data analytics.
 
-Skills: Machine Learning / PYTHON / JAVA / LIGHTROOM / HTML / CSS
+Skills: Machine-Learning / PYTHON / SQL / JAVA / LIGHTROOM 
 
-- 🌱 I’m currently doing hands on experience in Machine Learning and Power bi.
+- 🌱 I’m currently doing hands-on experience in Machine Learning and Power bi.
 - 📫 How to reach me: meet.gajjjar1182@gmail.com 
 
 

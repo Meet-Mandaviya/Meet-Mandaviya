@@ -6,7 +6,6 @@
 * Data Science
 * Machine Learning
 * 🐍 Python
-* ☕ Java
 * 💻 Lightroom
 
 I am an aspiring data analyst with a passion for transforming raw data into actionable insights. Proficient in data wrangling, visualization, and statistical analysis. Eager to contribute my skills anywhere, uncovering trends and driving data-driven decisions. Excited to learn and make a meaningful impact in the field of data analytics.

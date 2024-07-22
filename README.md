@@ -3,16 +3,15 @@
 ![Coding and Analysis](https://github.com/Meet-Mandaviya/Meet-Mandaviya/blob/66d6f6bbd0ff2ce865f03865f8bda34556ca9f9e/data-analytics.jpg)
 
 ## Skills 
-* Data Science
-* Machine Learning
 * 🐍 Python
+* PowerBI
 * 💻 Lightroom
 
-I am an aspiring data analyst with a passion for transforming raw data into actionable insights. Proficient in data wrangling, visualization, and statistical analysis. Eager to contribute my skills anywhere, uncovering trends and driving data-driven decisions. Excited to learn and make a meaningful impact in the field of data analytics.
+I am an aspiring data analyst passionate about transforming raw data into actionable insights. Proficient in data wrangling, visualization, and statistical analysis. Eager to contribute my skills anywhere, uncovering trends and driving data-driven decisions. I am excited to learn and make a meaningful impact in data analytics.
 
-Skills: Machine-Learning / PYTHON / SQL / JAVA / LIGHTROOM 
+Skills: Python, PowerBI, Machine-Learning, Lightroom
 
-- 🌱 I’m currently doing hands-on experience in Machine Learning and Power bi.
+- 🌱 I’m currently doing hands-on experience in Machine Learning and power BI.
 - 📫 How to reach me: meet.gajjjar1182@gmail.com 
 
 
